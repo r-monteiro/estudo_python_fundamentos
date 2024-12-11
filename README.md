@@ -1,2 +1,2 @@
 # python_fundamentos
-Explorando Python: Operações Básicas, Estruturas e Visualização
+(ESTUDO) Explorando Python: Operações Básicas, Estruturas e Visualização
